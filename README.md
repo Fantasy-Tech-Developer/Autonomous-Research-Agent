@@ -1,6 +1,6 @@
-# Autonomous Research Agent
+# Autonomous-Research-Agent
 ### An Advanced Multi-Agent AI System for Autonomous Academic Research, Paper Analysis, and Knowledge Synthesis
-Autonomous-Research-Agent is a production-grade, research-oriented AI agent system designed to autonomously discover, analyze, and synthesize academic knowledge from scientific literature. Built using modern agent orchestration frameworks and large language models, this system enables fully automated academic research workflows — from paper discovery to structured report generation.
+Autonomous-Research-Agent is a production-grade, research-oriented AI agent system designed to autonomously discover, analyze, and synthesize academic knowledge from scientific literature. Built using modern agent orchestration frameworks and large language models, this system enables fully automated academic research workflows from paper discovery to structured report generation.
 
 This project is designed for:
 - AI researchers
@@ -153,7 +153,7 @@ AI Researcher | Autonomous Agents | RAG Systems | Trustworthy AI
 If this project supports your research or learning,
 please consider giving it a ⭐ on GitHub.
 
-# ⚠️ License & Usage Restriction
+## ⚠️ License & Usage Restriction
 
 © 2026 Fantasy Tech Developer. All rights reserved.
 
