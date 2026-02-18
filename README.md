@@ -1,4 +1,4 @@
-# Autonomous-Research-Agent
+# Autonomous Research Agent
 ### An Advanced Multi-Agent AI System for Autonomous Academic Research, Paper Analysis, and Knowledge Synthesis
 Autonomous-Research-Agent is a production-grade, research-oriented AI agent system designed to autonomously discover, analyze, and synthesize academic knowledge from scientific literature. Built using modern agent orchestration frameworks and large language models, this system enables fully automated academic research workflows — from paper discovery to structured report generation.
 
@@ -58,7 +58,7 @@ This project is designed for:
  ``` 
 Autonomous-Research-Agent/
 │
-├── arxiv_researcher/
+├── researcher_agent/
 │   ├── agent/              # Multi-agent implementations
 │   ├── chains/             # LLM reasoning chains
 │   ├── searcher/           # arXiv search module
@@ -152,4 +152,24 @@ AI Researcher | Autonomous Agents | RAG Systems | Trustworthy AI
 ##  Support
 If this project supports your research or learning,
 please consider giving it a ⭐ on GitHub.
-  
+
+# ⚠️ License & Usage Restriction
+
+© 2026 Fantasy Tech Developer. All rights reserved.
+
+This project and its source code are the intellectual property of the author.
+
+❌ Strictly prohibited:
+- Copying this code
+- Reusing any part of this project
+- Modifying or redistributing
+- Using for commercial or research purposes
+- Training AI models on this repository
+- Reproducing architecture, design, or implementation
+
+No permission is granted to use, modify, distribute, or reproduce this software in any form.
+
+This repository is provided for **viewing purposes only**.
+
+Unauthorized use, reproduction, or distribution of this code or its concepts may result in legal action.
+
