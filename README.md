@@ -58,7 +58,7 @@ This project is designed for:
  ``` 
 Autonomous-Research-Agent/
 │
-├── researcher_agent/
+├── researche_agent/
 │   ├── agent/              # Multi-agent implementations
 │   ├── chains/             # LLM reasoning chains
 │   ├── searcher/           # arXiv search module
