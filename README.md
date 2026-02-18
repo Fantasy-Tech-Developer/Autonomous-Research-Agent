@@ -42,21 +42,7 @@ This project is designed for:
 - Literature synthesis
 
 ## System Architecture
-```
-User Research Goal
-        ↓
-Goal Optimization Agent
-        ↓
-Paper Search Agent (arXiv)
-        ↓
-Paper Processing Agent
-        ↓
-Paper Analysis Agent
-        ↓
-Research Report Generator
-        ↓
-Final Structured Research Report
-```
+![Autonomous Research Agent](assets/Autonomous-Research-Agent%20Framework.png)
 
  ## Tech Stack
 - Python 3.11+
@@ -157,9 +143,10 @@ uv run python -m arxiv_researcher.agent.paper_search_agent
 - AI scientist agents
 - Fully autonomous literature review system
 
-## Author
-### Miraj Rahman
+##  Author
+**[Miraj Rahman](https://github.com/Miraj-Rahman-AI)**  
 AI Researcher | Autonomous Agents | RAG Systems | Trustworthy AI
+
 
 
 ##  Support
