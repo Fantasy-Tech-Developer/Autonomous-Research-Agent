@@ -91,7 +91,7 @@ Autonomous-Research-Agent/
 ## Installation
 ### 1. Clone Repository
 ```
-git clone https://github.com/your-username/Autonomous-Research-Agent.git
+git clone https://github.com/Fantasy-Tech-Developer/Autonomous-Research-Agent.git
 cd Autonomous-Research-Agent
 ```
 
