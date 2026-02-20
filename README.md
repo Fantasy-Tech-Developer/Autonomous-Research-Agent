@@ -133,7 +133,6 @@ uv run python -m arxiv_researcher.agent.paper_search_agent
 - "Summarize top 10 papers on AI safety"
 
 ## Research & Engineering Goals
-
 - Autonomous-Research-Agent aims to become a next-generation research intelligence system.
 - Future directions:
 - Self-improving research agents
@@ -154,22 +153,10 @@ If this project supports your research or learning,
 please consider giving it a ⭐ on GitHub.
 
 ## ⚠️ License & Usage Restriction
-
 © 2026 Fantasy Tech Developer. All rights reserved.
-
-This project and its source code are the intellectual property of the author.
-
-❌ Strictly prohibited:
-- Copying this code
-- Reusing any part of this project
-- Modifying or redistributing
-- Using for commercial or research purposes
-- Training AI models on this repository
-- Reproducing architecture, design, or implementation
 
 No permission is granted to use, modify, distribute, or reproduce this software in any form.
 
 This repository is provided for **viewing purposes only**.
 
-Unauthorized use, reproduction, or distribution of this code or its concepts may result in legal action.
 
