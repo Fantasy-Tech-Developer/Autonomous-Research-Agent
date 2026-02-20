@@ -142,10 +142,10 @@ uv run python -m arxiv_researcher.agent.paper_search_agent
 - AI scientist agents
 - Fully autonomous literature review system
 
+
 ##  Author
 **[Miraj Rahman](https://github.com/Miraj-Rahman-AI)**  
 AI Researcher | Autonomous Agents | RAG Systems | Trustworthy AI
-
 
 
 ##  Support
@@ -153,10 +153,9 @@ If this project supports your research or learning,
 please consider giving it a ⭐ on GitHub.
 
 ## ⚠️ License & Usage Restriction
-© 2026 Fantasy Tech Developer. All rights reserved.
+© 2026 Mirage-AI. All rights reserved.
 
 No permission is granted to use, modify, distribute, or reproduce this software in any form.
 
 This repository is provided for **viewing purposes only**.
-
 
