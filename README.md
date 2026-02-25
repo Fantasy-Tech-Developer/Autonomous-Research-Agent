@@ -158,4 +158,3 @@ please consider giving it a ⭐ on GitHub.
 No permission is granted to use, modify, distribute, or reproduce this software in any form.
 
 This repository is provided for **viewing purposes only**.
-
